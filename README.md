@@ -45,4 +45,11 @@
 </ul>
 <br>
 <h3>ZADANIE 1/ TASK 1</h3>
-<img src="POSTMAN1.jpg">
+<img src="Postman1.PNG">
+<br>
+<h3>ZADANIE 2/ TASK 2</h3>
+<img src="Postman2.PNG">
+<h3>ZADANIE 3/ TASK 3</h3>
+<img src="Postman3.PNG">
+<br>
+
